@@ -1,0 +1,39 @@
+#PageMenu>ul{
+    position:fixed;
+    top: -10px;;
+    right:0;
+    left:0;
+    bottom: -10px;;
+    background-color: blueviolet; 
+    display:none;
+    z-index: 1;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: blueviolet;
+    background-color: #FFF;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #FFF;
+}
+
+.filler-text{
+    margin: auto;
+    background-color: violet;
+    color:black;
+}
+div>.navbar-header{
+    background-color: violet;
+}
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+.navbar-default{
+    background-color: violet;
+}
